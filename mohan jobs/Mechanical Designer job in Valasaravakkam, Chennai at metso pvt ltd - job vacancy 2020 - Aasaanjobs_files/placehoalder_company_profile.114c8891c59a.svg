@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="42" viewBox="0 0 40 42">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M-4-3h48v48H-4z"/>
+        <path fill="#E4EEFC" fill-rule="nonzero" d="M2 0h26v40H2z"/>
+        <g fill="#ABCBF7" fill-rule="nonzero">
+            <path d="M4 3h4v6H4zM10 3h4v6h-4zM16 3h4v6h-4zM22 3h4v6h-4z"/>
+        </g>
+        <g fill="#ABCBF7" fill-rule="nonzero">
+            <path d="M4 13h4v6H4zM10 13h4v6h-4zM16 13h4v6h-4zM22 13h4v6h-4z"/>
+        </g>
+        <g fill="#ABCBF7" fill-rule="nonzero">
+            <path d="M4 23h4v6H4zM10 23h4v6h-4zM16 23h4v6h-4zM22 23h4v6h-4z"/>
+        </g>
+        <g fill="#ABCBF7" fill-rule="nonzero">
+            <path d="M4 32h4v6H4zM10 32h4v6h-4zM16 32h4v6h-4zM22 32h4v6h-4z"/>
+        </g>
+        <path fill="#ABCBF7" fill-rule="nonzero" d="M16 13h22v27H16z"/>
+        <path fill="#E4EEFC" fill-rule="nonzero" d="M23 31h8v9h-8zM18 15h3v6h-3zM18 23h3v6h-3zM18 31h3v6h-3zM23 15h3v6h-3zM23 23h3v6h-3zM28 15h3v6h-3zM28 23h3v6h-3zM33 15h3v6h-3zM33 23h3v6h-3zM33 31h3v6h-3z"/>
+        <path fill="#DBDDDF" fill-rule="nonzero" d="M39.46 41.988H.555c-.302 0-.548-.23-.548-.513v-.973c0-.284.245-.514.548-.514H39.46c.302 0 .547.23.547.514v.973c0 .283-.245.513-.547.513z"/>
+    </g>
+</svg>
